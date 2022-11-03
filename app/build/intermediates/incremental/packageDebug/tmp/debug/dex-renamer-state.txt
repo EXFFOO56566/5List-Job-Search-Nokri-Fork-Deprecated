@@ -1,0 +1,19 @@
+#Mon May 09 10:38:04 PDT 2022
+path.4=classes2.dex
+path.3=classes2.dex
+path.2=classes.dex
+path.1=classes.dex
+path.5=classes3.dex
+path.0=classes.dex
+base.4=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL CURRENT PLAYSTORE APPS\\5 LIST JOB SEARCH\\AAFRONT END\\Old version\\5 List Job search old with bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.3=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL CURRENT PLAYSTORE APPS\\5 LIST JOB SEARCH\\AAFRONT END\\Old version\\5 List Job search old with bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.2=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL CURRENT PLAYSTORE APPS\\5 LIST JOB SEARCH\\AAFRONT END\\Old version\\5 List Job search old with bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+base.1=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL CURRENT PLAYSTORE APPS\\5 LIST JOB SEARCH\\AAFRONT END\\Old version\\5 List Job search old with bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.0=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL CURRENT PLAYSTORE APPS\\5 LIST JOB SEARCH\\AAFRONT END\\Old version\\5 List Job search old with bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+base.5=C\:\\Users\\spider\\Desktop\\PROJECTS\\ALL CURRENT PLAYSTORE APPS\\5 LIST JOB SEARCH\\AAFRONT END\\Old version\\5 List Job search old with bugs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2

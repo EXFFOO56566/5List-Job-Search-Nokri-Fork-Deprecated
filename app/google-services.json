@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "173489326807",
+    "project_id": "nigerian-job-search",
+    "storage_bucket": "nigerian-job-search.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173489326807:android:aaa5a48d3b3829b241be92",
+        "android_client_info": {
+          "package_name": "com.tochycomputerservices.jobportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173489326807-gl6auccrijnmj1a8469umu6cmck6etin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tochycomputerservices.jobportal",
+            "certificate_hash": "3c29d14240958c4f80fb79a7ded81547fb744100"
+          }
+        },
+        {
+          "client_id": "173489326807-21c1nuncls1bgkb9m8u52uvgpjmol0sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrDmtUESqutSlQgZfM-WE8Io_0ynS1dIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173489326807-21c1nuncls1bgkb9m8u52uvgpjmol0sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

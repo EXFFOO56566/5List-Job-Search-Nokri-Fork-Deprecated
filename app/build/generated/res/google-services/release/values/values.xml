@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">173489326807-21c1nuncls1bgkb9m8u52uvgpjmol0sc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">173489326807</string>
+    <string name="google_api_key" translatable="false">AIzaSyCrDmtUESqutSlQgZfM-WE8Io_0ynS1dIs</string>
+    <string name="google_app_id" translatable="false">1:173489326807:android:aaa5a48d3b3829b241be92</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCrDmtUESqutSlQgZfM-WE8Io_0ynS1dIs</string>
+    <string name="google_storage_bucket" translatable="false">nigerian-job-search.appspot.com</string>
+    <string name="project_id" translatable="false">nigerian-job-search</string>
+</resources>
